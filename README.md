@@ -1,25 +1,23 @@
 [![profile Header](https://user-images.githubusercontent.com/67065043/187313278-4a30562a-cb4d-4291-af52-8fb26361b873.jpg)](https://github.com/zi-gax)
 ## Intro
-
 <table>
   <tr>
     <td valign="center">
-      <p>
       ___________________________________________________________________________________________________________________________________________________
         <h3>Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></h3>
         Im Amirhossein
         <br/>
         -👀 &nbsp;I love to build and make life easier and fun with code .
         <br/>
-        -✈️ &nbsp;I love do bug hunting .
+        -✈️ &nbsp;I love bug hunting .
         <br/>
-        -🚀 &nbsp;I love contributing to CTFs .
+        -🚀 &nbsp;I love Playing to CTFs .
         <br/>
-        -🙂 &nbsp;I'm a Interested in Security .
+        -🙂 &nbsp;I'm Interested in Security .
         <br/>
-         -👨‍🎓 I have read some stuff about network and security .
+         -👨‍🎓&nbsp;I have read some stuff about network and security .
         <br />
-        -💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        -💞️ &nbsp;Follow me on github to stay tuned on my projects.
         <br/>
       </p>
     </td>
