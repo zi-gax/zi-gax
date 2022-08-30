@@ -1,4 +1,5 @@
-[![profile Header](https://user-images.githubusercontent.com/67065043/187425011-168b5471-eca3-4d4f-8099-d9f93ea2cd04.gif)](https://github.com/zi-gax)
+[![profile Header](https://user-images.githubusercontent.com/67065043/187464530-d4210d91-0fed-4edd-890e-7717ea555f7f.gif)](https://github.com/zi-gax)
+
 ## Intro
 <table>
 
@@ -34,6 +35,7 @@
 ![](https://img.shields.io/badge/Linux-5F5F5F?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/PhotoShop-071C32?style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/Premiere-9191F2?style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/AfterEffects-D884F2?style=for-the-badge&logoColor=black)
 
 ## My Projects
 <table>
