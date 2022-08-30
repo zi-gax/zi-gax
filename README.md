@@ -13,9 +13,9 @@
         <br/>
         -✈️&nbsp;I love bug hunting .
         <br/>
-        -🚀&nbsp;I love Playing to CTFs .
+        -🚀&nbsp;I love playing CTFs .
         <br/>
-        -🙂&nbsp;I'm Interested in Security .
+        -🙂&nbsp;I'm interested in Security .
         <br/>
          -👨‍🎓&nbsp;I have read some stuff about network and security .
         <br />
