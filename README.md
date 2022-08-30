@@ -5,21 +5,21 @@
 
   <tr>
     <td valign="center">
-      ___________________________________________________________________________________________________________________________________________________
+      _________________________________________________________________________________________________________________________________________________
         <h3>Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></h3>
         Im Amirhossein
         <br/>
-        -👀 &nbsp;I love to build and make life easier and fun with code .
+        -👀&nbsp;I love to build and make life easier and fun with code .
         <br/>
-        -✈️ &nbsp;I love bug hunting .
+        -✈️&nbsp;I love bug hunting .
         <br/>
-        -🚀 &nbsp;I love Playing to CTFs .
+        -🚀&nbsp;I love Playing to CTFs .
         <br/>
-        -🙂 &nbsp;I'm Interested in Security .
+        -🙂&nbsp;I'm Interested in Security .
         <br/>
          -👨‍🎓&nbsp;I have read some stuff about network and security .
         <br />
-        -💞️ &nbsp;Follow me on github to stay tuned on my projects.
+        -💞️&nbsp;Follow me on github to stay tuned on my projects.
         <br/>
       </p>
     </td>
