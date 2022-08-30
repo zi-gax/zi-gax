@@ -41,18 +41,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=Zi_Gax&theme=github_dark" /></a>
+      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=zi-gax&theme=github_dark" /></a>
     </td>
     <td>
-      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=Zi_Gax&theme=github_dark" /></a>
+      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=zi-gax&theme=github_dark" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=Zi_Gax&theme=github_dark" /></a>
+      <a href="https://github.com/zi-gax/zi-gax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=zi-gax&theme=github_dark" /></a>
     </td>
     <td>
-      <a href="https://github.com/zi-gax/zi-gax><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=Zi_Gax&theme=github_dark" /></a>
+      <a href="https://github.com/zi-gax/zi-gax><img src="https://github-readme-stats.vercel.app/api/pin/?username=zi-gax&repo=zi-gax&theme=github_dark" /></a>
     </td>
   </tr>
 </table>
