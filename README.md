@@ -6,8 +6,8 @@
   <tr>
     <td valign="center">
       ____________________________________________________________________________________________________________________________________________
-        <h3>Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></h3>
-        Im Amirhossein
+        <h2>Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></h2>
+        <h3> Im Amirhossein</h3>
         <br/>
         -👀&nbsp;I love to build and make life easier and fun with code .
         <br/>
